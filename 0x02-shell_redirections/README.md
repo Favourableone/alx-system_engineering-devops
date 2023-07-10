@@ -1,3 +1,1 @@
-#!/bin/bash
-echo Hello, World
-
+Input and output redirection
