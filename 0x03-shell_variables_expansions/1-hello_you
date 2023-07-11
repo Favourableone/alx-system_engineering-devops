@@ -1,3 +1,2 @@
 #!/bin/bash
-hellouser=$(whoami)
-echo $hellouser
+export MY_VAR="hello user"
